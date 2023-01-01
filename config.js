@@ -13,33 +13,33 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Key',
+	'https://zenzapis.xyz': '944b3f8f65',
 }
 
 
-global.ownername = 'THE JO BOT'
+global.ownername = 'Lenlen.'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['60177426853','60177426853','60177426853']
-global.premium = ['60177426853']
-global.packname = 'The Jo Bot'
-global.author = 'WhatsApp Bot'
+global.owner = ['4915166237236']
+global.premium = ['4915166237236']
+global.packname = '❤️,Terror'
+global.author = 'Tiinchen'
 global.wlcm = []
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['.']
 global.sp = '⭔'
 global.mess = {
-    success: '✓ Success',
+    success: '✓ Erledigt',
     admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner',
+    botAdmin: 'Lenlen!',
+    owner: 'Karnevalsverein',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
+    bot: 'Tina',
     wait: 'Loading...',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
+    endLimit: 'Is nich!',
 }
 global.limitawal = {
     premium: "Infinity",
